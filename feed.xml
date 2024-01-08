@@ -22,7 +22,40 @@ Sermons from the Church of God Oklahoma Assembly Meeting in Guthrie, Oklahoma in
 </itunes:owner>
 <itunes:image href="https://previews.123rf.com/images/chekman/chekman2311/chekman231100134/218109356-calvary-icon-black-silhouette-of-a-crosses-on-calvary-hill-religious-icon-on-white-background-vector.jpg"/>
 <itunes:category text="Christianity"></itunes:category>
-
+<item>
+<title>We Reap What We Sow</title>
+<itunes:title>We Reap What We Sow</itunes:title>
+<itunes:author>Dan Doolittle</itunes:author>
+<itunes:subtitle>
+Guthrie Assembly Meeting 12/22/2023
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+Dan Doolittle delivers a sermon reflecting on lessons from King Solomon's life. It analyzes how even the wisest person failed to tend his 'vineyard' by neglecting humility and 
+kindness over time, leading to conflict and division. Despite wisdom to counsel others, Solomon did not heed warnings and planted seeds of arrogance reaped in bitterness. 
+Core themes cover the universal laws of sowing and reaping, need for self-reflection, seeking God's wisdom, and living with love and humility daily to bear good fruit.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+Dan Doolittle delivers a sermon reflecting on lessons from King Solomon's life. It analyzes how even the wisest person failed to tend his 'vineyard' by neglecting humility and 
+kindness over time, leading to conflict and division. Despite wisdom to counsel others, Solomon did not heed warnings and planted seeds of arrogance reaped in bitterness. 
+Core themes cover the universal laws of sowing and reaping, need for self-reflection, seeking God's wisdom, and living with love and humility daily to bear good fruit.
+]]>
+]]>
+</description>
+<itunes:image href="https://previews.123rf.com/images/chekman/chekman2311/chekman231100134/218109356-calvary-icon-black-silhouette-of-a-crosses-on-calvary-hill-religious-icon-on-white-background-vector.jpg"/>
+<enclosure url="http://churchofgodpreaching.com/messages/download.php?file=9400.mp3" length="30994296" type="audio/mpeg"/>
+<itunes:duration>2340</itunes:duration>
+<itunes:season>2023</itunes:season>
+<itunes:episode>EPISODE 1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+http://churchofgodpreaching.com/messages/download.php?file=9400.mp3
+</guid>
+<pubDate>22 Dec 2023</pubDate>
+<itunes:explicit>NO</itunes:explicit>
+</item>
 <item>
 <title>Unto You</title>
 <itunes:title>Unto You</itunes:title>
@@ -57,7 +90,7 @@ Scriptures referenced: Philippians 1, Luke 2, John 3, Jeremiah
 <guid isPermaLink="false">
 http://churchofgodpreaching.com/messages/download.php?file=9431.mp3
 </guid>
-<pubDate>12/30/2023</pubDate>
+<pubDate>30 Dec 2023</pubDate>
 <itunes:explicit>NO</itunes:explicit>
 </item>
 </channel>
