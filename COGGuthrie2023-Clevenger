@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Church of God Guthrie Oklahoma 2023 - Marty Clevenger</title>
+        <description>Sermons delivered by Marty Clevenger at the Church of God chapel in Guthrie, Oklahoma in 2023. Audio provided by churchofgodpreaching.com.</description>
+        <link>http://www.yourpodcastwebsite.com</link>
+        <language>en-us</language>
+        <itunes:author>Your Name</itunes:author>
+        <itunes:image href="http://www.yourpodcastwebsite.com/podcast.jpg" />
+        
+        <!-- Episodes -->
+        <item>
+            <title>Unto You</title>
+            <description>Minister - Marty Clevenger; Category - Salvation</description>
+            <enclosure url="http://churchofgodpreaching.com/messages/download.php?file=9431" length="3120" type="audio/mpeg" />
+            <itunes:duration>52:00</itunes:duration>
+        </item>
+
+        <item>
+            <title>Faith</title>
+            <description>Minister - Marty Clevenger; Category - Faith</description>
+            <enclosure url="http://churchofgodpreaching.com/messages/download.php?file=9427" length="3240" type="audio/mpeg" />
+            <itunes:duration>54:00</itunes:duration>
+        </item>
+
+        <item>
+            <title>Working Together</title>
+            <description>Minister - Marty Clevenger; Category - Effort</description>
+            <enclosure url="http://churchofgodpreaching.com/messages/download.php?file=9418" length="2520" type="audio/mpeg" />
+            <itunes:duration>42:00</itunes:duration>
+        </item>
+
+        <item>
+            <title>Wisdom Cries</title>
+            <description>Minister - Marty Clevenger; Category - Warning</description>
+            <enclosure url="http://churchofgodpreaching.com/messages/download.php?file=8917" length="2640" type="audio/mpeg" />
+            <itunes:duration>44:00</itunes:duration>
+        </item>
+
+        <item>
+            <title>How Much Do You Love the Truth?</title>
+            <description>Minister - Marty Clevenger; Category - Truth</description>
+            <enclosure url="http://churchofgodpreaching.com/messages/download.php?file=8905" length="2400" type="audio/mpeg" />
+            <itunes:duration>40:00</itunes:duration>
+        </item>
+        
+    </channel>
+</rss>
